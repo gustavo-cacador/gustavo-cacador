@@ -29,5 +29,5 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=java,spring,postman, mysql,docker,git" alt="Tecnologias e Ferramentas" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
