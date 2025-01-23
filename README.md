@@ -1,6 +1,8 @@
 
 `System.out.println("Welcome to my github!😆");`
 
+---
+
 🎓 Graduando em Sistemas de Informação na UVV.  
 💻 Apaixonado por tecnologia, especialmente desenvolvimento back-end com Java + Spring.  
 🚀 Estou sempre aprimorando minhas habilidades e desenvolvendo projetos integrados com Banco de Dados relacionais.
