@@ -29,5 +29,5 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postman,docker,postgres,mysql,idea,git)](https://skillicons.dev)
 
