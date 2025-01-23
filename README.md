@@ -9,17 +9,11 @@
 
 ---
 
-## 📊 Meus Projetos Recentes
-- 🔥 [Controle de Demandas](https://github.com/gustavo-cacador/controle-demandas): Sistema de Demandas simplificado com Spring Boot.  
-- 📚 [Sistema de Games](https://github.com/gustavo-cacador/gamelist): Gerenciamento de jogos com Spring Boot + Hibernate + Postgres.
-
----
-
 ## 🌱 Atualmente estudando
-- Spring Framework
-- Desenvolvimento de APIs RESTful  
-- Clean Architecture  
-- Microserviços
+- Spring Framework.
+- Desenvolvimento de APIs RESTful.
+- Clean Architecture. 
+- Microserviços.
 
 ---
 
