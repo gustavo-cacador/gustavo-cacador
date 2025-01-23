@@ -1,5 +1,5 @@
-```
-System.out.println("Welcome to my github!😆")
+```java
+System.out.println("Welcome to my github!😆");
 
 🎓 Graduando em Sistemas de Informação na UVV.  
 💻 Apaixonado por tecnologia, especialmente desenvolvimento back-end com Java + Spring.  
