@@ -1,16 +1,19 @@
-## Hi there 👋
+System.out.println("Welcome to my github!😆")
 
-<!--
-**gustavo-cacador/gustavo-cacador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em Sistemas de Informação na UVV.  
+💻 Apaixonado por tecnologia, especialmente desenvolvimento back-end com Java + Spring.  
+🚀 Estou sempre aprimorando minhas habilidades e desenvolvendo projetos integrados com Banco de Dados relacionais.
 
-Here are some ideas to get you started:
+## 📊 Meus Projetos Recentes
+- 🔥 [Controle de Demandas](https://github.com/gustavo-cacador/controle-demandas): Sistema de Demandas simplificado com Spring Boot.  
+- 📚 [Sistema de Games](https://github.com/gustavo-cacador/gamelist): Gerenciamento de jogos com Spring Boot + Hibernate + Postgres.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente estudando
+- Spring Framework
+- Desenvolvimento de APIs RESTful  
+- Clean Architecture  
+- Microserviços  
+
+## 📫 Como entrar em contato comigo
+- LinkedIn: https://www.linkedin.com/in/gustavo-ca%C3%A7ador-a61473234/  
+- E-mail: gustavoirl456@outlook.com  
