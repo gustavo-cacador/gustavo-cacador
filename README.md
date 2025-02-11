@@ -5,7 +5,7 @@
 
 🎓 Graduando em Sistemas de Informação na UVV.  
 
-💻 Apaixonado por tecnologia, especialmente desenvolvimento back-end com Java + Spring.  
+💻 Apaixonado por tecnologia, especialmente desenvolvimento back-end com Java + Spring + SQL.  
 
 🚀 Estou sempre aprimorando minhas habilidades e desenvolvendo projetos integrados com Banco de Dados relacionais.
 
@@ -19,6 +19,8 @@
 - Clean Architecture.
   
 - Microserviços.
+
+- Testes Unitários.
 
 ---
 
